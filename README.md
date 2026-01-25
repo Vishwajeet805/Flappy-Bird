@@ -101,7 +101,7 @@ Flappy-Bird/
 
 ---
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Mobile touch optimization
 
@@ -117,16 +117,15 @@ Flappy-Bird/
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is open-source and free to use for learning, practice, and personal projects.
 
 ---
 
-##👤 Author
+## 👤 Author
 Vishwajeet Singh
 GitHub: https://github.com/Vishwajeet805
-
 
 ---
 
@@ -137,6 +136,7 @@ If you want, I can:
 - write a **project description for LinkedIn**
 
 Just say what you want next 🚀
+
 
 
 
