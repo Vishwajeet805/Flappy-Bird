@@ -51,9 +51,13 @@ The project focuses on:
 
 Flappy-Bird/
 │
+
 ├── index.html # Game layout and UI
+
 ├── style.css # Styling and animations
+
 ├── index.js # Game logic and rendering
+
 └── README.md # Documentation
 
 
@@ -131,4 +135,5 @@ If you want, I can:
 - write a **project description for LinkedIn**
 
 Just say what you want next 🚀
+
 
