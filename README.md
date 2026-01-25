@@ -73,41 +73,51 @@ Flappy-Bird/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Vishwajeet805/Flappy-Bird.git
-Navigate into the project folder:
+   ```
+2. Navigate into the project folder:
+   ```bash
+   cd Flappy-Bird
+   ```
+3. Open index.html in any modern web browser.
 
-cd Flappy-Bird
-Open index.html in any modern web browser.
+4. No additional setup or dependencies required.
 
-No additional setup or dependencies required.
+## 📈 Learning Outcomes
+- Understanding game loops using requestAnimationFrame
 
-📈 Learning Outcomes
-Understanding game loops using requestAnimationFrame
+- Working with the Canvas API
 
-Working with the Canvas API
+- Implementing physics and collision detection
 
-Implementing physics and collision detection
+- Structuring JavaScript for interactive applications
 
-Structuring JavaScript for interactive applications
+- Creating responsive game UI using CSS
 
-Creating responsive game UI using CSS
+---
 
-🚀 Future Improvements
-Mobile touch optimization
+##🚀 Future Improvements
 
-Difficulty levels
+- Mobile touch optimization
 
-High-score storage using LocalStorage
+- Difficulty levels
 
-Sound effects toggle
+- High-score storage using LocalStorage
 
-Background animations
+- Sound effects toggle
 
-Day/Night themes
+- Background animations
 
-📄 License
+- Day/Night themes
+
+---
+
+##📄 License
+
 This project is open-source and free to use for learning, practice, and personal projects.
 
-👤 Author
+---
+
+##👤 Author
 Vishwajeet Singh
 GitHub: https://github.com/Vishwajeet805
 
@@ -121,3 +131,4 @@ If you want, I can:
 - write a **project description for LinkedIn**
 
 Just say what you want next 🚀
+
