@@ -86,6 +86,8 @@ Flappy-Bird/
 
 4. No additional setup or dependencies required.
 
+---
+
 ## 📈 Learning Outcomes
 - Understanding game loops using requestAnimationFrame
 
@@ -135,5 +137,6 @@ If you want, I can:
 - write a **project description for LinkedIn**
 
 Just say what you want next 🚀
+
 
 
